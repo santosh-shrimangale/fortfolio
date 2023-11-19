@@ -1,0 +1,14 @@
+.about-us{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    display: block;
+}
+.who{
+    font-size: 18px;
+    margin-bottom: 2em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    position: relative;
+}

@@ -1,0 +1,7 @@
+.portFolio-main{
+  width: calc(100% - 20%);
+  /* height: 100vh; */
+  float: right;
+  position: relative;
+  top: 50px;
+}

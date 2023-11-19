@@ -1,0 +1,30 @@
+.container-fluid{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  transition: opacity 0.5s ease-in-out;
+}
+.bgImg{
+  /* margin-top: 15%; */
+  /* width: 100%; */
+  /* max-width: 100; */
+  height:700px;
+    /* opacity: 1; */
+    /* transition: opacity 0.5s ease-in-out; */
+    /* object-fit: cover; */
+}
+.container-fluid.hide {
+    opacity: 0;
+  }
+
+ .intro{
+    font-size: 60px;
+    line-height: 1.3;
+    font-weight: 700;
+    position: absolute;
+    top: 24%;
+    left: 0%;
+ } 
