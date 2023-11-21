@@ -2,6 +2,7 @@
     margin-top: 2em;
     margin-bottom: 2em;
     display: block;
+    padding: 2em;
 }
 .who{
     font-size: 18px;
@@ -11,4 +12,10 @@
     letter-spacing: 5px;
     line-height: 1.8;
     position: relative;
+}
+.aboutPara{
+    color: #999999;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-size: 10px;
 }
