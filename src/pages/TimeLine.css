@@ -1,0 +1,30 @@
+.timeline_Main {
+  padding: 40px;
+}
+.TimePara {
+  color: #999999;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+.timeHead {
+  color: black;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+.timeLine_box1 {
+    background: #f2f3f7;
+    padding: 4px;
+    margin-left: 42px;
+}
+
+.timeLine_box1 h3 {
+    color: black;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: "Quicksand", Arial, sans-serif;
+    margin-left: 10px;
+}
+
+

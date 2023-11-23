@@ -13,7 +13,7 @@ function Sidebar() {
       <ul className='pages'>
         <li><Link to="/">Home</Link></li>
         <li><Link to="about">About</Link></li>
-        <li><Link to="service">Service</Link></li>
+        <li><Link to="TimeLine">TimeLine</Link></li>
         <li><Link to="skill">Skill</Link></li>
         <li><Link to="education">Education</Link></li>
         <li><Link to="experience">Experience</Link></li>

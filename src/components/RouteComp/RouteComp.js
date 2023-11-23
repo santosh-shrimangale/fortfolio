@@ -5,10 +5,11 @@ import About from './../../pages/About';
 import Blog from './../../pages/Blog';
 import Education from '../../pages/Education';
 import Experience from './../../pages/Experience';
-import Service from '../../pages/Service';
+
 import Skill from '../../pages/Skill';
 import Work from '../../pages/Work';
 import Contact from '../../pages/Contact';
+import TimeLine from '../../pages/TimeLine';
 
 
 function RouteComp() {
@@ -20,7 +21,7 @@ function RouteComp() {
           <Route path='blog' element={<Blog/>}/>
           <Route path='education' element={<Education/>}/>
           <Route path='experience' element={<Experience/>}/>
-          <Route path='service' element={<Service/>}/>
+          <Route path='TimeLine' element={<TimeLine/>}/>
           <Route path='skill' element={<Skill/>}/>
           <Route path='work' element={<Work/>}/>
           <Route path='contact' element={<Contact/>}/>
